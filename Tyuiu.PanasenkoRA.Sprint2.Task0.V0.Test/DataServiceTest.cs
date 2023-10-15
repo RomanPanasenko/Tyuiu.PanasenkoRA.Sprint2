@@ -10,6 +10,7 @@ namespace Tyuiu.PanasenkoRA.Sprint2.Task0.V0.Test
         [TestMethod]
         public void ValidGetCompareOperations()
         {
+            
             DataService ds = new DataService();
             int x = 1000;
             int y = 900;
